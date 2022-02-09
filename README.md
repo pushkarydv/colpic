@@ -1,5 +1,5 @@
 <div align="center">
- <h1> <img src="./public/favicon/favicon.svg" width="22px"> Web Searcher </h1>
+ <h1> <img src="./public/favicon/logo32.png" width="32px"> Web Searcher </h1>
  <img src="https://img.shields.io/github/package-json/v/pushkarydv/colpic?color=g&label=COLPIC">
  <img src="https://img.shields.io/npm/v/npm">
  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcolpic.netlify.app">
