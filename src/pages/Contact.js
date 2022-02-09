@@ -11,7 +11,6 @@ export default function Contact() {
         Heyy if you find any bug or having problem with this product feel free
         to contact me on my socials.
       </p>
-      <GoA name="Instagram" link="https://instagram.com/pushkaryadav_" />
       <GoA name="Twitter" link="https://twitter.com/pushkaryadav_" />
       <GoA name="Github" link="https://github.com/pushkarydv" />
       <GoA name="Portfolio" link="https://pushkaryadav.netlify.app/" />
