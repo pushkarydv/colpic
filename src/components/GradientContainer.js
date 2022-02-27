@@ -10,7 +10,7 @@ export function GradientContainer({ color }) {
       onClick={(e) => {
         copyColor(`${color[0]}, ${color[1]}`);
         e.target.innerText = "COPIED";
-        setInterval(() => {
+        setTimeout(() => {
           e.target.innerText = `${color[0]} , ${color[1]}`;
         }, 450);
       }}

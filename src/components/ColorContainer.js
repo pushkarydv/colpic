@@ -10,7 +10,7 @@ export function ColorContainer({ color }) {
       onClick={(e) => {
         copyColor(color);
         e.target.innerText = "COPIED";
-        setInterval(() => {
+        setTimeout(() => {
           e.target.innerText = color;
         }, 450);
       }}
