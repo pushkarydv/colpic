@@ -12,10 +12,9 @@
 
 ### Website is Live : [colpic.netlify.app](https://colpic.netlify.app)
 
-# Screensorts
-
-   <img src="https://raw.githubusercontent.com/pushkarydv/images/main/colpic-page1.png">
-   <img src="https://raw.githubusercontent.com/pushkarydv/images/main/colpic-page2.png" >
+# Screenshots
+![screenshot](https://raw.githubusercontent.com/pushkarydv/images/main/colpic-page1.png)
+![screenshot](https://raw.githubusercontent.com/pushkarydv/images/main/colpic-page2.png)
 
 # PageSpeed Insights
 
