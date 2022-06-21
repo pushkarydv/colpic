@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
  <h1> <img src="./public/favicon/logo32.png" width="32px"> COLPIC </h1>
  <img src="https://img.shields.io/github/package-json/v/pushkarydv/colpic?color=g&label=COLPIC">
  <img src="https://img.shields.io/npm/v/npm">
