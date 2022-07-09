@@ -27,13 +27,14 @@ export default function Broadcast() {
               transition: "all 0.6s ease",
               display: "flex",
               justifyContent: "center",
-              background: "linear-gradient(to right, #d946ef , #d946ef)",
-              minHeight: "2rem",
-              fontSize: "1rem",
+              background: "linear-gradient(to right, #9400D3, #4B0082)",
+              minHeight: "1.5rem",
+              fontSize: "0.8rem",
               alignItems: "center",
               flexWrap: "wrap",
               color: "#fff",
               padding: "0.1rem",
+              textAlign: "center",
             }}
           >
             <a
